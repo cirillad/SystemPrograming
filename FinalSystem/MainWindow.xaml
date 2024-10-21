@@ -1,0 +1,17 @@
+﻿<Window x:Class="WordSearchApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Word Search" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="DirectoryPath" Width="300" Height="25" Margin="10,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Button Content="Browse" Width="75" Height="25" Margin="320,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Browse_Click" />
+        <TextBox x:Name="SearchWord" Width="300" Height="25" Margin="10,45,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Button Content="Search" Width="75" Height="25" Margin="320,45,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Search_Click" />
+
+        <ProgressBar x:Name="ProgressBar" Height="25" Width="300" Margin="10,80,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <ListBox x:Name="ResultsList" Width="400" Height="150" Margin="10,115,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <Button Content="Save Results" Width="100" Height="25" Margin="10,275,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Click="SaveResults_Click" />
+    </Grid>
+</Window>

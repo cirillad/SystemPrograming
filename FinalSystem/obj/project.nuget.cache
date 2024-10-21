@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxqdOD9t8PDHDa7BU4vnZl4MfnGziF9wFR82MyKC5YFn+DwzeDhyL+eM3l29koEpZE340FV8GLOkXv79MGLS5g==",
+  "success": true,
+  "projectFilePath": "D:\\all\\development\\Code\\C#\\FinalSystem\\FinalSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Note\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

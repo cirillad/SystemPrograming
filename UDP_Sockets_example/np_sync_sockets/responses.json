@@ -1,0 +1,5 @@
+{
+  "Hello": [ "Hi there!", "Greetings!", "Hello!" ],
+  "How are you?": [ "I'm fine, thank you!", "Doing great!", "I'm just a server, but I'm doing well!" ],
+  "What's your name?": [ "I'm a server.", "I don't have a name.", "You can call me Server." ]
+}

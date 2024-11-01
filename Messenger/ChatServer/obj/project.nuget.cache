@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YPvHmy3Bs4MXbkPB+HCB5VWHyohi60qBfGgtFICuBqAuvZIN6tbej+JQYZ/uAZ7UyvMOmbW1cmq5ld3bwo5Pg==",
+  "success": true,
+  "projectFilePath": "D:\\all\\development\\Code\\C#\\ChatServer\\ChatServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Note\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

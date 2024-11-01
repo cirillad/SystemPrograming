@@ -1,0 +1,37 @@
+﻿<Window x:Class="ChatApp.MainMessengerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Messenger" Height="550" Width="915" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Список контактів -->
+        <StackPanel Grid.Column="0" Background="LightGray">
+            <TextBlock Text="Contacts" FontSize="15" HorizontalAlignment="Center" FontWeight="Bold" Margin="10"/>
+            <ListBox Name="ContactsListBox" Height="300" Margin="10" SelectionChanged="ContactsListBox_SelectionChanged"/>
+            <Button Content="Add Contact" Margin="10" Click="AddContact_Click"/>
+            <Button Content="Remove Contact" Margin="10" Click="RemoveContact_Click"/>
+            <Button Content="Rename Contact" Margin="10" Click="RenameContact_Click"/>
+        </StackPanel>
+
+        <!-- Панель чату -->
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Chat" FontWeight="Bold" FontSize="15" HorizontalAlignment="Center" Margin="10"/>
+            <ScrollViewer Name="ChatScrollViewer" VerticalScrollBarVisibility="Auto" Margin="10" Height="400">
+                <StackPanel Name="MessagesPanel"/>
+            </ScrollViewer>
+
+            <StackPanel Orientation="Horizontal" Margin="0" Width="690">
+                <TextBox Name="MessageTextBox" Width="600" Height="30" Margin="10 0 10 0"/>
+                <Button Content="Send" Width="70" Click="SendMessage_Click"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

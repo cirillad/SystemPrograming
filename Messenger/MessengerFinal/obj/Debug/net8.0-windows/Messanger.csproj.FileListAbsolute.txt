@@ -1,0 +1,95 @@
+D:\all\development\Code\C#\Messenger\bin\Debug\net8.0-windows\Messanger.exe
+D:\all\development\Code\C#\Messenger\bin\Debug\net8.0-windows\Messanger.deps.json
+D:\all\development\Code\C#\Messenger\bin\Debug\net8.0-windows\Messanger.runtimeconfig.json
+D:\all\development\Code\C#\Messenger\bin\Debug\net8.0-windows\Messanger.dll
+D:\all\development\Code\C#\Messenger\bin\Debug\net8.0-windows\Messanger.pdb
+D:\all\development\Code\C#\Messenger\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\all\development\Code\C#\Messenger\bin\Debug\net8.0-windows\ChatClient.dll
+D:\all\development\Code\C#\Messenger\bin\Debug\net8.0-windows\ChatClient.pdb
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.csproj.AssemblyReference.cache
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\MainWindow.baml
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Views\AddContactWindowxaml.baml
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Views\MainMessengerWindow.baml
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Views\RegisterWindow.baml
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Views\AddContactWindowxaml.g.cs
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Views\MainMessengerWindow.g.cs
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Views\RegisterWindow.g.cs
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\App.g.cs
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger_MarkupCompile.cache
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.g.resources
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.AssemblyInfoInputs.cache
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.AssemblyInfo.cs
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.csproj.CoreCompileInputs.cache
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.csproj.Up2Date
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.dll
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\refint\Messanger.dll
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.pdb
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\Messanger.genruntimeconfig.cache
+D:\all\development\Code\C#\Messenger\obj\Debug\net8.0-windows\ref\Messanger.dll
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.csproj.AssemblyReference.cache
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\MainWindow.baml
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Views\AddContactWindowxaml.baml
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Views\MainMessengerWindow.baml
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Views\RegisterWindow.baml
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Views\AddContactWindowxaml.g.cs
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Views\MainMessengerWindow.g.cs
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Views\RegisterWindow.g.cs
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\App.g.cs
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger_MarkupCompile.cache
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.g.resources
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.AssemblyInfoInputs.cache
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.AssemblyInfo.cs
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.csproj.CoreCompileInputs.cache
+D:\all\development\Code\C#\Messenger — копия\bin\Debug\net8.0-windows\Messanger.exe
+D:\all\development\Code\C#\Messenger — копия\bin\Debug\net8.0-windows\Messanger.deps.json
+D:\all\development\Code\C#\Messenger — копия\bin\Debug\net8.0-windows\Messanger.runtimeconfig.json
+D:\all\development\Code\C#\Messenger — копия\bin\Debug\net8.0-windows\Messanger.dll
+D:\all\development\Code\C#\Messenger — копия\bin\Debug\net8.0-windows\Messanger.pdb
+D:\all\development\Code\C#\Messenger — копия\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.csproj.Up2Date
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.dll
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\refint\Messanger.dll
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.pdb
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\Messanger.genruntimeconfig.cache
+D:\all\development\Code\C#\Messenger — копия\obj\Debug\net8.0-windows\ref\Messanger.dll
+D:\all\development\Code\C#\MessengerFinal\bin\Debug\net8.0-windows\Messanger.exe
+D:\all\development\Code\C#\MessengerFinal\bin\Debug\net8.0-windows\Messanger.deps.json
+D:\all\development\Code\C#\MessengerFinal\bin\Debug\net8.0-windows\Messanger.runtimeconfig.json
+D:\all\development\Code\C#\MessengerFinal\bin\Debug\net8.0-windows\Messanger.dll
+D:\all\development\Code\C#\MessengerFinal\bin\Debug\net8.0-windows\Messanger.pdb
+D:\all\development\Code\C#\MessengerFinal\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\all\development\Code\C#\MessengerFinal\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\all\development\Code\C#\MessengerFinal\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.csproj.AssemblyReference.cache
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\MainWindow.baml
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Views\AddContactWindowxaml.baml
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Views\MainMessengerWindow.baml
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Views\RegisterWindow.baml
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\App.baml
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Views\AddContactWindowxaml.g.cs
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Views\MainMessengerWindow.g.cs
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Views\RegisterWindow.g.cs
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\App.g.cs
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger_MarkupCompile.cache
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.g.resources
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.AssemblyInfoInputs.cache
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.AssemblyInfo.cs
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.csproj.CoreCompileInputs.cache
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.csproj.Up2Date
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.dll
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\refint\Messanger.dll
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.pdb
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\Messanger.genruntimeconfig.cache
+D:\all\development\Code\C#\MessengerFinal\obj\Debug\net8.0-windows\ref\Messanger.dll

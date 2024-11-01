@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Messanger.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "..\\ChatServer\\ChatServer.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

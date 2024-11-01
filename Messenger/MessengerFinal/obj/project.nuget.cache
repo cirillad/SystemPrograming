@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vNgUvRMXNkQSjVcGEP0i5xWrGMzTsUA9k3JE1DbQa2Ew4jrmY7TxLjU2U7Z1JNtPBZXK+VIBk3ifV1bQxqMXw==",
+  "success": true,
+  "projectFilePath": "D:\\all\\development\\Code\\C#\\MessengerFinal\\Messanger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Note\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512",
+    "C:\\Users\\Note\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

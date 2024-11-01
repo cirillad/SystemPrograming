@@ -1,0 +1,11 @@
+D:\all\development\Code\C#\ChatClient\obj\Debug\net8.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\all\development\Code\C#\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfoInputs.cache
+D:\all\development\Code\C#\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfo.cs
+D:\all\development\Code\C#\ChatClient\obj\Debug\net8.0\ChatClient.csproj.CoreCompileInputs.cache
+D:\all\development\Code\C#\ChatClient\bin\Debug\net8.0\ChatClient.deps.json
+D:\all\development\Code\C#\ChatClient\bin\Debug\net8.0\ChatClient.dll
+D:\all\development\Code\C#\ChatClient\bin\Debug\net8.0\ChatClient.pdb
+D:\all\development\Code\C#\ChatClient\obj\Debug\net8.0\ChatClient.dll
+D:\all\development\Code\C#\ChatClient\obj\Debug\net8.0\refint\ChatClient.dll
+D:\all\development\Code\C#\ChatClient\obj\Debug\net8.0\ChatClient.pdb
+D:\all\development\Code\C#\ChatClient\obj\Debug\net8.0\ref\ChatClient.dll

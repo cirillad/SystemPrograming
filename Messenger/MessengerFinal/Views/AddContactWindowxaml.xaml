@@ -1,0 +1,17 @@
+﻿<Window x:Class="ChatApp.AddContactWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Contact" Height="250" Width="350" ResizeMode="NoResize">
+    <Grid Margin="20">
+        <StackPanel>
+
+            <Label Content="Enter the nickname of the user:" FontWeight="SemiBold"/>
+            <TextBox Name="NicknameTextBox" Margin="0,0,0,10" Height="30" />
+
+            <Label Content="Enter your label:" FontWeight="SemiBold"/>
+            <TextBox Name="LabelTextBox" Margin="0,0,0,20" Height="30" />
+
+            <Button Content="Add Contact" Width="120" Height="30" HorizontalAlignment="Center" Click="AddContactButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
